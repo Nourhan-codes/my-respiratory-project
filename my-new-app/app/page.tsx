@@ -12,7 +12,7 @@ export default function Home() {
       <div className="flex flex-wrap justify-center gap-6">
         <Link href="/learn/anatomy">
           <button className="bg-blue-600 text-white px-8 py-4 rounded-2xl text-xl font-bold shadow-lg hover:scale-105 transition-all">
-             خريطة الأعضاء 🫁
+            مرحبا بك في خريطة الأعضاء 🫁
           </button>
         </Link>
         <Link href="/quiz">
